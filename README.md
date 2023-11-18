@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="Center"alt="coding"width="400"src="![Uploading e726c74ac081eed50feee1433d12c998.gif…]()
-">
+![e726c74ac081eed50feee1433d12c998](https://github.com/Lavinasevani/Lavinasevani/assets/123406490/284495b2-b5a2-4df0-bb9e-7722318290c8)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavinasevani" alt="lavinasevani" /></a> </p>
 
