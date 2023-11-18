@@ -1,6 +1,6 @@
 <div align="center">
     <img style="width:1000px; height:400px;" src="<div align="center">
-    <img style="width:1000px; height:400px;" src="https://cutewallpaper.org/27/best-wallpaper-gif-program/7-best-animated-presentation-software-you-should-know-about.gif" alt="MasterHead">
+    <img style="width:1000px; height:400px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw2_m44s-6oi2KIc4irYvZ7F&ust=1700385514344000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi-w-abzYIDFQAAAAAdAAAAABAE" >
 </div>" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
