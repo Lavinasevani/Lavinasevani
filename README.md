@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="alt="coding"width="700" "height="300" src=C:\Users\Sevani\Desktop\gitgif.gif
+<img align="Center"alt="coding"width="700" "height="300" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw2_m44s-6oi2KIc4irYvZ7F&ust=1700385514344000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi-w-abzYIDFQAAAAAdAAAAABAE
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavinasevani" alt="lavinasevani" /></a> </p>
 
