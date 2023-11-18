@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="width:1000px; height:400px;" src=https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/
+    <img style="width:300px; height:400px;" src=https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/"
 
 </div>
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
