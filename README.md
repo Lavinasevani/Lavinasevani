@@ -1,7 +1,4 @@
-<div align="center">
-    <img style="width:600px; height:800px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&psig=AOvVaw2_m44s-6oi2KIc4irYvZ7F&ust=1700385514344000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi-w-abzYIDFQAAAAAdAAAAABAJ"
 
-</div>
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
