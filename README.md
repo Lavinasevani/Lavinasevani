@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-
+<img align="alt="coding"width="700" "height="300" src=C:\Users\Sevani\Desktop\gitgif.gif
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavinasevani" alt="lavinasevani" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Application**
