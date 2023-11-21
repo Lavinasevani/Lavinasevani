@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 ![e726c74ac081eed50feee1433d12c998](https://github.com/Lavinasevani/Lavinasevani/assets/123406490/b4471748-4c19-4228-8104-81f7c87f4951)
 
