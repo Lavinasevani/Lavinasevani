@@ -1,4 +1,4 @@
-
+[![An image of @lavinasevani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lavinasevani)](https://holopin.io/@lavinasevani)
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
 <h3 align="center">A passionate developer from India</h3>
 
