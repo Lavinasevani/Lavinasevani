@@ -1,6 +1,6 @@
-[![An image of @lavinasevani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lavinasevani)](https://holopin.io/@lavinasevani)
+
 <h1 align="center">Hi 👋, I'm Lavina Sevani</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer.</h3>
 
 ![e726c74ac081eed50feee1433d12c998](https://github.com/Lavinasevani/Lavinasevani/assets/123406490/b4471748-4c19-4228-8104-81f7c87f4951)
 
@@ -46,3 +46,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+🙂">
 </h3>
 
+[![An image of @lavinasevani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lavinasevani)](https://holopin.io/@lavinasevani)
